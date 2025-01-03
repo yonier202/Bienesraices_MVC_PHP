@@ -1,0 +1,21 @@
+{
+    "name": "jhonierdev/bienes-raices-poo_php_inicio",
+    "description": "POO",
+    "autoload": {
+        "psr-4": {
+            "Model\\" : "./models",
+            "MVC\\" : "./",
+            "Controller\\" : "./controllers"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Jhonier Rojas",
+            "email": "yonier202@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^3.10"
+    }
+}
